@@ -1,6 +1,4 @@
-I am an ENSICAEN (National Engineering School of Caen, France) student majoring in e-payment and cybersecurity
-
-Interested about research in AI and security fields
+I am an ENSICAEN (National Engineering School of Caen, France) student majoring in e-payment and cybersecurity, interested about research in AI and security fields
 
 <!---
 - 👋 Hi, I’m @hocnguyen12
