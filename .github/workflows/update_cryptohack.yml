@@ -25,7 +25,7 @@ jobs:
           JOINED=$(jq -r '.joined' cryptohack_info.json)
 
           # Create the Cryptohack stats block in Markdown format
-          echo "## Cryptohack Stats" > cryptohack_info.md
+          echo "### Cryptohack Stats" > cryptohack_info.md
           echo "" >> cryptohack_info.md
           echo "**Username**: [$USERNAME](https://cryptohack.org/user/nguyenvh/)" >> cryptohack_info.md
           echo "- **Level**: $LEVEL" >> cryptohack_info.md
@@ -36,7 +36,7 @@ jobs:
 
 
           # Insert the formatted stats into README.md
-          sed -i '/## Cryptohack Stats/,$d' README.md # Remove old stats section
+          sed -i '/### Cryptohack Stats/,$d' README.md # Remove old stats section
           cat cryptohack_info.md >> README.md        # Append new stats
       - name: Commit changes
         run: |
@@ -47,5 +47,4 @@ jobs:
             git commit -m "Update Cryptohack info" || exit 0
           fi
           git pull --rebase origin main
-          git commit -m "Update Cryptohack info" || exit 0
           git push
