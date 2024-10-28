@@ -21,3 +21,11 @@ You can click the Preview link to take a look at your changes.
 - **Score**: 1305
 - **Rank**: 4235
 - **Solved Challenges**: 60
+## [Cryptohack Stats](https://cryptohack.org/user/nguyenvh/)
+
+**Usename**: nguyenvh
+**Joined**: 28 Feb 2024
+- **Level**: 9
+- **Score**: 1305
+- **Rank**: 4235
+- **Solved Challenges**: 60
