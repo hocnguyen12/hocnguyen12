@@ -27,7 +27,7 @@ jobs:
           # Create the Cryptohack stats block in Markdown format
           echo "### Cryptohack Stats" > cryptohack_info.md
           echo "" >> cryptohack_info.md
-          echo "**Usename**: [$USERNAME](https://cryptohack.org/user/nguyenvh/)" >> cryptohack_info.md
+          echo "**Username**: [$USERNAME](https://cryptohack.org/user/nguyenvh/)" >> cryptohack_info.md
           echo "- **Level**: $LEVEL" >> cryptohack_info.md
           echo "- **Score**: $SCORE" >> cryptohack_info.md
           echo "- **Rank**: $RANK" >> cryptohack_info.md
