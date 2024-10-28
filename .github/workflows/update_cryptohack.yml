@@ -43,6 +43,9 @@ jobs:
           git config user.name "hocnguyen12"
           git config user.email "paul.nguyen56545@gmail.com"
           git add README.md
+          if ! git diff-index --quiet HEAD --; then
+            git commit -m "Update Cryptohack info" || exit 0
+          fi
           git pull --rebase origin main
           git commit -m "Update Cryptohack info" || exit 0
           git push
