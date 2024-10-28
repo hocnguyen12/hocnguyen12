@@ -13,3 +13,8 @@ I am an ENSICAEN (National Engineering School of Caen, France) student majoring 
 hocnguyen12/hocnguyen12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Cryptohack Stats
+
+- **Score**: 1305
+- **Rank**: 4235
+- **Solved Challenges**: 60
