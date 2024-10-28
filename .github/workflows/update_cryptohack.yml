@@ -7,11 +7,13 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
       - name: Fetch Cryptohack Info
         run: |
-          USER="your_username"
+          USER="nguyenvh"
           curl -s "https://cryptohack.org/api/user/$USER/" > cryptohack_info.json
 
           # Format JSON data and prepare the markdown content for the README
