@@ -28,6 +28,7 @@ jobs:
           echo "## [Cryptohack Stats](https://cryptohack.org/user/nguyenvh/)" > cryptohack_info.md
           echo "" >> cryptohack_info.md
           echo "**Usename**: $USERNAME" >> cryptohack_info.md
+          echo "" >> cryptohack_info.md
           echo "**Joined**: $JOINED" >> cryptohack_info.md
           echo "- **Level**: $LEVEL" >> cryptohack_info.md
           echo "- **Score**: $SCORE" >> cryptohack_info.md
@@ -35,8 +36,8 @@ jobs:
           echo "- **Solved Challenges**: $SOLVED_COUNT" >> cryptohack_info.md
 
           # Insert the formatted stats into README.md
-           sed -i '/## Cryptohack Stats/,$d' README.md || true  # Remove old stats section; use '|| true' to prevent failure if not found
-          cat cryptohack_info.md >> README.md  # Append new stats
+          sed -i '/## Cryptohack Stats/,$d' README.md # Remove old stats section
+          cat cryptohack_info.md >> README.md        # Append new stats
       - name: Commit changes
         run: |
           git config user.name "hocnguyen12"
