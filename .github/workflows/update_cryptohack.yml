@@ -17,20 +17,26 @@ jobs:
           curl -s "https://cryptohack.org/api/user/$USER/" > cryptohack_info.json
 
           # Format JSON data and prepare the markdown content for the README
+          USERNAME=$(jq '.username' cryptohack_info.json)
+          LEVEL=$(jq '.level' cryptohack_info.json)
           SCORE=$(jq '.score' cryptohack_info.json)
           RANK=$(jq '.rank' cryptohack_info.json)
           SOLVED_COUNT=$(jq '.solved_challenges | length' cryptohack_info.json)
+          JOINED=$(jq '.joined' cryptohack_info.json)
 
           # Create the Cryptohack stats block in Markdown format
-          echo "## Cryptohack Stats" > cryptohack_info.md
+          echo "## [Cryptohack Stats](https://cryptohack.org/user/nguyenvh/)" > cryptohack_info.md
           echo "" >> cryptohack_info.md
+          echo "**Usename**: $USERNAME" >> cryptohack_info.md
+          echo "**Joined**: $JOINED" >> cryptohack_info.md
+          echo "- **Level**: $SCORE" >> cryptohack_info.md
           echo "- **Score**: $SCORE" >> cryptohack_info.md
           echo "- **Rank**: $RANK" >> cryptohack_info.md
           echo "- **Solved Challenges**: $SOLVED_COUNT" >> cryptohack_info.md
 
           # Insert the formatted stats into README.md
-          sed -i '/## Cryptohack Stats/,$d' README.md # Remove old stats section
-          cat cryptohack_info.md >> README.md        # Append new stats
+           sed -i '/## Cryptohack Stats/,$d' README.md || true  # Remove old stats section; use '|| true' to prevent failure if not found
+          cat cryptohack_info.md >> README.md  # Append new stats
       - name: Commit changes
         run: |
           git config user.name "hocnguyen12"
