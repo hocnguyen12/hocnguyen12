@@ -20,6 +20,6 @@ You can click the Preview link to take a look at your changes.
 **Username**: [nguyenvh](https://cryptohack.org/user/nguyenvh/)
 - **Level**: 9
 - **Score**: 1305
-- **Rank**: 4341
+- **Rank**: 4396
 - **Solved Challenges**: 60
 - **Joined**: 28 Feb 2024
