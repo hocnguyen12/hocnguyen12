@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/hocnguyen12/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hocnguyen12)](https://github.com/hocnguyen12/github-readme-stats)
 
 ### Presentation
 
