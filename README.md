@@ -16,11 +16,11 @@ hocnguyen12/hocnguyen12 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocnguyen12&theme=apprentice&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/hocnguyen12">
   <img src="https://github-readme-stats.vercel.app/api?username=hocnguyen12&theme=apprentice" />
+</a>
+<a href="https://github.com/hocnguyen12">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocnguyen12&theme=apprentice&layout=compact" />
 </a>
 
 ### Cryptohack Stats
