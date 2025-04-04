@@ -15,6 +15,9 @@ I am an ENSICAEN (National Engineering School of Caen, France) student majoring 
 hocnguyen12/hocnguyen12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hocnguyen12&theme=apprentice)](https://github.com/hocnguyen12/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hocnguyen12&theme=apprentice)](https://github.com/hocnguyen12/github-readme-stats)
+
 ### Cryptohack Stats
 
 **Username**: [nguyenvh](https://cryptohack.org/user/nguyenvh/)
@@ -24,7 +27,4 @@ You can click the Preview link to take a look at your changes.
 - **Solved Challenges**: 60
 - **Joined**: 28 Feb 2024
 
-### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hocnguyen12&theme=apprentice)](https://github.com/hocnguyen12/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hocnguyen12&theme=apprentice)](https://github.com/hocnguyen12/github-readme-stats)
