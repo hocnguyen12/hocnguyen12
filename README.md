@@ -16,10 +16,12 @@ hocnguyen12/hocnguyen12 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocnguyen12&theme=apprentice" />
-
-<img align="start" src="https://github-readme-stats.vercel.app/api?username=hocnguyen12&theme=apprentice" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocnguyen12&theme=apprentice&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hocnguyen12&theme=apprentice" />
+</a>
 
 ### Cryptohack Stats
 
@@ -30,4 +32,4 @@ You can click the Preview link to take a look at your changes.
 - **Solved Challenges**: 60
 - **Joined**: 28 Feb 2024
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hocnguyen12&repo=cryptohack)](https://github.com/hocnguyen12/github-readme-stats)
