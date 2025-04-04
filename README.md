@@ -1,5 +1,3 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hocnguyen12&theme=apprentice)](https://github.com/hocnguyen12/github-readme-stats)
-
 ### Presentation
 
 I am an ENSICAEN (National Engineering School of Caen, France) student majoring in e-payment and cybersecurity, interested about software developpment, CTFs and research in both the AI and security fields
@@ -25,3 +23,8 @@ You can click the Preview link to take a look at your changes.
 - **Rank**: 5032
 - **Solved Challenges**: 60
 - **Joined**: 28 Feb 2024
+
+### Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hocnguyen12&theme=apprentice)](https://github.com/hocnguyen12/github-readme-stats)
+
