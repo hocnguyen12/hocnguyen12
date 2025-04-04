@@ -32,4 +32,4 @@ You can click the Preview link to take a look at your changes.
 - **Solved Challenges**: 60
 - **Joined**: 28 Feb 2024
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hocnguyen12&repo=cryptohack)](https://github.com/hocnguyen12/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hocnguyen12&repo=cryptohack&theme=apprentice)](https://github.com/hocnguyen12/cryptohack)
