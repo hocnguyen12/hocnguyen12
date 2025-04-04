@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Presentation
 
 I am an ENSICAEN (National Engineering School of Caen, France) student majoring in e-payment and cybersecurity, interested about software developpment, CTFs and research in both the AI and security fields
