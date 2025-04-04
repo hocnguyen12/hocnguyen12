@@ -26,8 +26,5 @@ You can click the Preview link to take a look at your changes.
 
 ### Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hocnguyen12&theme=apprentice)](https://github.com/hocnguyen12/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hocnguyen12&theme=apprentice)](https://github.com/hocnguyen12/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hocnguyen12&theme=apprentice)](https://github.com/hocnguyen12/github-readme-stats)
