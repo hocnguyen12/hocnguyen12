@@ -19,10 +19,10 @@ You can click the Preview link to take a look at your changes.
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hocnguyen12&theme=apprentice)](https://github.com/hocnguyen12/github-readme-stats)
 
 <a href="https://github.com/hocnguyen12/github-readme-stats">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocnguyen12&theme=apprentice" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocnguyen12&theme=apprentice" />
 </a>
 <a href="https://github.com/hocnguyen12/convoychat">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=hocnguyen12&theme=apprentice" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=hocnguyen12&theme=apprentice" />
 </a>
 
 ### Cryptohack Stats
