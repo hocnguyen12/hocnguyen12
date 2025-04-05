@@ -1,4 +1,4 @@
-### Presentation
+## Presentation
 
 I am an ENSICAEN (National Engineering School of Caen, France) student majoring in e-payment and cybersecurity, interested in software developpment, CTFs and research in both the AI and security fields
 
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocnguyen12&theme=apprentice&layout=compact" />
 </a>
 
-### Cryptohack Stats
+## Cryptohack Stats
 
 **Username**: [nguyenvh](https://cryptohack.org/user/nguyenvh/)
 - **Level**: 9
