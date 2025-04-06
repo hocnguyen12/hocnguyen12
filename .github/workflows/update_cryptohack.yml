@@ -25,6 +25,7 @@ jobs:
           JOINED=$(jq -r '.joined' cryptohack_info.json)
 
           # Create the Cryptohack stats block in Markdown format
+          echo "" >> cryptohack_info.md
           echo "## Cryptohack Stats" > cryptohack_info.md
           echo "" >> cryptohack_info.md
           echo "**Username**: [$USERNAME](https://cryptohack.org/user/nguyenvh/)" >> cryptohack_info.md
@@ -33,7 +34,8 @@ jobs:
           echo "- **Rank**: $RANK" >> cryptohack_info.md
           echo "- **Solved Challenges**: $SOLVED_COUNT" >> cryptohack_info.md
           echo "- **Joined**: $JOINED" >> cryptohack_info.md
-
+          echo "" >> cryptohack_info.md
+          # Add the cryptohack github repo card 
           echo "[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hocnguyen12&repo=cryptohack&theme=apprentice)](https://github.com/hocnguyen12/cryptohack)" >> cryptohack_info.md
 
           # Insert the formatted stats into README.md
