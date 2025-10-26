@@ -1,4 +1,4 @@
-## Presentation
+## About Me
 
 I am an Computer Science student majoring in e-payment and cybersecurity at ENSICAEN, interested in software developpment, CTFs and research in both the AI and security fields
 
