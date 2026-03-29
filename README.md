@@ -46,13 +46,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
+
 ## Cryptohack Stats
 
 **Username**: [nguyenvh](https://cryptohack.org/user/nguyenvh/)
 - **Level**: 9
-- **Score**: 1305
-- **Rank**: 6489
-- **Solved Challenges**: 60
+- **Score**: 1310
+- **Rank**: 6506
+- **Solved Challenges**: 61
 - **Joined**: 28 Feb 2024
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hocnguyen12&repo=cryptohack&theme=apprentice)](https://github.com/hocnguyen12/cryptohack)
