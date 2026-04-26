@@ -50,12 +50,13 @@ You can click the Preview link to take a look at your changes.
 
 
 
+
 ## Cryptohack Stats
 
 **Username**: [nguyenvh](https://cryptohack.org/user/nguyenvh/)
 - **Level**: 9
 - **Score**: 1310
-- **Rank**: 6572
+- **Rank**: 6606
 - **Solved Challenges**: 61
 - **Joined**: 28 Feb 2024
 
